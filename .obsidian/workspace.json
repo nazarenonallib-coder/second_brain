@@ -11,17 +11,14 @@
             "id": "250bb93b19f98557",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Sin título 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Sin título.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Sin título 1"
+              "icon": "lucide-file",
+              "title": "Sin título"
             }
           }
         ]
@@ -56,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "git.",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +74,7 @@
               "title": "Marcadores"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -169,7 +165,8 @@
               "title": "Esquema de adada"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -189,9 +186,11 @@
   },
   "active": "250bb93b19f98557",
   "lastOpenFiles": [
-    "Sin título 1.canvas",
+    "Sin título.md",
+    "adewqdqwsaadcasdas.md",
     "Sin título.canvas",
-    "adada.md",
+    "Sin título 1.canvas",
+    "Sin título 2.canvas",
     "hola.md"
   ]
 }
