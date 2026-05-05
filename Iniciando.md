@@ -7,4 +7,5 @@ Para hacer un primer filtro de que features considerar al inicio, porque podriam
 - Bien fundado.
 - Detecta cualquier tipo de relacion
 
-Los valores de **MI** van desde 0.0 a infinito, aunque mayor a 2.0 es raro, 0 es independecia total
+Los valores de **MI** van desde 0.0 a infinito, aunque mayor a 2.0 es raro, 0 es independecia total.
+
