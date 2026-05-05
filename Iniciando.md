@@ -9,3 +9,5 @@ Para hacer un primer filtro de que features considerar al inicio, porque podriam
 
 Los valores de **MI** van desde 0.0 a infinito, aunque mayor a 2.0 es raro, 0 es independecia total.
 
+Para chi cuadrado:
+Si el _valor-p_ es mayor a 0.05 se considera una asociación significativa. Valores altos indican mayor desviación de la independencia. 
