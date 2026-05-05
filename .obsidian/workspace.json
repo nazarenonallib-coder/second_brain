@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sin título 1.md",
+                "file": "Iniciando.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sin título 1"
+              "title": "Iniciando"
             }
           }
         ]
@@ -186,8 +186,8 @@
   },
   "active": "ab1f06c65a04b819",
   "lastOpenFiles": [
-    "Sin título 1.md",
-    "Sin título.md",
+    "Feature engineering.md",
+    "Iniciando.md",
     "adewqdqwsaadcasdas.md",
     "Sin título.canvas",
     "Sin título 1.canvas",
