@@ -8,7 +8,8 @@ Crea k centroides ( ¨centro¨ de un cluster) y asigna cada punto de datos al ce
 Una vez determinado el lugar de los centroides se crea un hiperplano que divide el espacio de cada cluster ( Teselación de Voronoi) del de los otros y es lo que se usa para calcular futuros datos.
 
 El proceso de entrenamiento es asi:
--inicializamos aletoriamente k centroides.
+- inicializamos aletoriamente k centroides.
 - Asignas los puntos al centroide mas cercano
 - Moves los centroides para minimizar la distancia a sus puntos.
-- Repetis para re
+- Repetís para reducir varianza.
+
