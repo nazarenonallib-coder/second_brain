@@ -31,4 +31,4 @@ Usando una funcion de agregacion, una transformacion de grupo combina una featur
 
 Con esto se debe tener mucho cuidado de no hacer data leakeage. 
 - **La feature se calcula solo en el train pero se aplica a todo**
-- **La feature no usa datos de la fila para la que esta calculando** ( la feature se calcula sobre  )
+- **La feature no usa datos de la fila para la que esta calculando** ( la feature se calcula para cada fila pero sin incluirla misma )
