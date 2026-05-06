@@ -7,3 +7,6 @@ A pesar de que hay muchos modelos de clustering, difieren en como miden distanci
 Crea k centroides ( ¨centro¨ de un cluster) y asigna cada punto de datos al centroide mas cercanos, creando asi los clusters.
 Una vez determinado el lugar de los centroides se crea un hiperplano que divide el espacio de cada cluster ( Teselación de Voronoi) del de los otros y es lo que se usa para calcular futuros datos.
 
+El proceso de entrenamiento es asi:
+-inicializamos aletoriamente k centroides.
+- 
