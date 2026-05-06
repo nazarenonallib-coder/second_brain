@@ -29,4 +29,6 @@ Si descubriste una interaccion por categoria es buena investigar una interaccion
 
 Usando una funcion de agregacion, una transformacion de grupo combina una feature categorica(  por la que agrupamos ) y otra( la que agrupamos ). En el caso de "Sueldo promedio por estado", 'Estado' es la agrupadora, la media es la funcion de agregacion y 'Sueldo' la agregada.
 
-Con esto se debe tener mucho cuidado de no hacer data leakeage entre los sets. 
+Con esto se debe tener mucho cuidado de no hacer data leakeage. 
+- **La feature se calcula solo en el train pero se aplica a todo**
+- **La feature no usa datos de la fila para la que esta calculando** ( la feature se calcula sobre  )
