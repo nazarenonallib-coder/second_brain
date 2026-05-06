@@ -32,3 +32,10 @@ Usando una funcion de agregacion, una transformacion de grupo combina una featur
 Con esto se debe tener mucho cuidado de no hacer data leakeage. 
 - **La feature se calcula solo en el train pero se aplica a todo**
 - **La feature no usa datos de la fila para la que esta calculando** ( la feature se calcula para cada fila pero sin incluirla misma )
+
+# Consideraciones por modelo
+- Los modelos lineales solo pueden entender de sumas y restas.
+- Los ratios suelen ser complicados de aprender implicitamente por los modelos. Por esto suelen ser una forma facil de mejorar el modelo.
+- Los lineales, SVM y las redes neuronales precisan de datos normalizados. Las redes epecialmente necesita que no se alejen mucho de 0. Los basados en arboles se pueden beneficiar ocasionalmente pero no mucho.
+- Los arboles pueden casi cualquier cosa por si mismos pero si algo resulta importante se benefician de especificarlo explicitamnete.
+- Las cuentas son especialmente utiles para los arboles pues estos no tienen manera de agregar features.
