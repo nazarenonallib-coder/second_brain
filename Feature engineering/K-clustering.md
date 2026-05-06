@@ -9,4 +9,6 @@ Una vez determinado el lugar de los centroides se crea un hiperplano que divide 
 
 El proceso de entrenamiento es asi:
 -inicializamos aletoriamente k centroides.
-- 
+- Asignas los puntos al centroide mas cercano
+- Moves los centroides para minimizar la distancia a sus puntos.
+- Repetis para re
