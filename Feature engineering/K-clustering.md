@@ -13,3 +13,4 @@ El proceso de entrenamiento es asi:
 - Moves los centroides para minimizar la distancia a sus puntos.
 - Repetís para reducir varianza.
 
+**K se suele calcular con cross validation**
