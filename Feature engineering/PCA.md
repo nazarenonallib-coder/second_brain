@@ -20,6 +20,25 @@ Significa:
 Los autovalores sirven para ordenarlos por importancia. 
 
 
+#### Cómo interpretar los componentes
+
+Cada componente es una **combinación lineal** de las features originales:
+
+```
+PC1 = 0.58·GastoA + 0.61·GastoB + 0.54·GastoC
+PC2 = 0.71·GastoA - 0.70·GastoB + 0.01·GastoC
+```
+
+Los coeficientes se llaman **loadings**. Te dicen qué features contribuyen más a cada componente.
+
+En este ejemplo hipotético:
+
+- **PC1** sería "gasto total": las tres contribuyen igual y en la misma dirección
+- **PC2** sería "contraste GastoA vs GastoB": captura la diferencia entre ambos
+
+Esto es interpretación, no magia. A veces los componentes tienen sentido semántico, a veces no.
+
+
 ## **Ventajas**
 
 1. **Multicolineridad**: Crea nuevos features sin correlacion por lo que elimina esto.
