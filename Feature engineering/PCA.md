@@ -4,8 +4,10 @@ Calcula los autovectores y sus autovalores de la matriz de covarianza, seleccion
 
 PCA identifica los ejes sobre los cuales los datos se extienden mas:
 
-- ****1st Principal Component (PC1):**** Direccion de mayor varianza( mas dispersos ).
-- ****2nd Principal Component (PC2):**** La segunda direccion de mayor varianza, __perpendicular a PC1__ and so on.
+- ***1st Principal Component (PC1):** Direccion de mayor varianza( mas dispersos ).
+- **2nd Principal Component (PC2):** La segunda direccion de mayor varianza, **perpendicular a PC1** y asi.
+
+Estas direcciones vienen de los autovectores de la matriz de covarianza y sus importancia de los respectivos auto 
 
 These directions come from the eigenvectors of the covariance matrix and their importance is measured by eigenvalues. For a square matrix A an eigenvector X (a non-zero vector) and its corresponding eigenvalue λ satisfy:
 
