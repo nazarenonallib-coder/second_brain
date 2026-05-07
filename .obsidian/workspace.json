@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feature engineering/K-clustering.md",
+                "file": "Feature engineering/PCA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K-clustering"
+              "title": "PCA"
             }
           }
         ]
@@ -196,8 +196,9 @@
   },
   "active": "f213e3d109e62df5",
   "lastOpenFiles": [
-    "Feature engineering/Elegir features mas utiles.md",
+    "Feature engineering/PCA.md",
     "Feature engineering/K-clustering.md",
+    "Feature engineering/Elegir features mas utiles.md",
     "Feature engineering/Feature engineering.md",
     "Feature engineering/Tipos de features.md",
     "Sin título.base",

@@ -1,0 +1,3 @@
+Tal como k-means agrupa por proximida, podemos pensar de PCA como agrupacion de la varianza de los datos. PCA es una gran herramienta para descubrir relaciones importantes en los datos y tambien se puede usar para crear features mas informativas.
+
+(Technical note: PCA is typically applied to [standardized](https://www.kaggle.com/alexisbcook/scaling-and-normalization) data. With standardized data "variation" means "correlation". With unstandardized data "variation" means "covariance". All data in this course will be standardized before applying PCA.)
