@@ -18,3 +18,19 @@ Significa:
 
 
 Los autovalores sirven para ordenarlos por importancia. 
+
+
+## **Ventajas**
+
+1. **Multicolineridad**: Crea nuevos features sin correlacion por lo que elimina esto.
+2. **Reduccion de ruido** Elimina features poco relevantes dejando datos mas claros.
+3. **Compresion de datos:*** Acelera todo el proceso y ocupa menos espacio porque tenemos menos features.
+4. ***Deteccion de outliers*** Identifica outliers al mostrarlos en el espacio reducido.
+
+## ***Desventajas***
+
+1. **Dificil de explicar** Son mezclas de los datos por lo que es mas dificil de explicar.
+2. **Sensibilidad a escala** Es necesario escalar los datos
+3. **Perdida de datos** Si reducimos la dimensionalidad de mas podemos perder informacion util.
+4. **Asume linearidad** Si los datos son no lineares sufre.
+5. **Caro** Es computacionalmente lento y caro.
