@@ -13,8 +13,8 @@ Estas direcciones vienen de los autovectores de la matriz de covarianza y sus im
 
 
 Significa:
+- Cuando A afecta a X solo lo estira o acorta por λ.
+- La direccion de X permanece fijo por lo que los autovectores dan direcciones estables para A. 
 
-Cuando A afecta a X solo lo estira o acorta por λ.
-- La direccion de X permanece fijo por lo que los autovectores dan 
 
-Eigenvalues help rank these directions by importance.
+Los autovectores si
