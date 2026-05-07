@@ -14,7 +14,7 @@ Estas direcciones vienen de los autovectores de la matriz de covarianza y sus im
 
 Significa:
 
-- When __A__ acts on X it only stretches or shrinks X by the scalar λ.
-- The direction of X remains unchanged hence eigenvectors define "stable directions" of A.
+Cuando A afecta a X solo lo estira o acorta por λ.
+- La direccion de X permanece fijo por lo que los autovectores dan 
 
 Eigenvalues help rank these directions by importance.
