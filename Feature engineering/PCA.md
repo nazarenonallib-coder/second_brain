@@ -17,4 +17,4 @@ Significa:
 - La direccion de X permanece fijo por lo que los autovectores dan direcciones estables para A. 
 
 
-Los autovectores si
+Los autovalores sirven para ordenarlos por importancia. 
