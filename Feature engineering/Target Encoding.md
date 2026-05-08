@@ -1,6 +1,5 @@
- **target encoding** is any kind of encoding that replaces a feature's categories with some number derived from the target.
-
-A simple and effective version is to apply a group aggregation from Lesson 3, like the mean.
+Targete encoding es cualquier tipo de encoding que utilice el target.
+Una manera facil es usar agregacion por grupo como la media, mismas consideraciones.
 
 This kind of target encoding is sometimes called a **mean encoding**. Applied to a binary target, it's also called **bin counting**. (Other names you might come across include: likelihood encoding, impact encoding, and leave-one-out encoding.)
 
