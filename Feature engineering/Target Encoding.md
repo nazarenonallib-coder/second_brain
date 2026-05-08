@@ -25,4 +25,5 @@ donde n es la frcuencia y m es un factor de suavizado, mas alto mas importa la m
 
 **casos de uso**
 - Alta cardinalidad: Cuando opciones como label encoding no estan disponibles esta es muy buena porque evita crear demasiadas columnas.
-- 
+- Conocimiento de dominio: Si sabemos que la feature deberia ser util a pesar de tener malas metricas. Puede revelar su informacion
+-
