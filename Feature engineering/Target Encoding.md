@@ -24,3 +24,5 @@ weight = n / (n + m)
 donde n es la frcuencia y m es un factor de suavizado, mas alto mas importa la media global.
 
 **casos de uso**
+- Alta cardinalidad: Cuando opciones como label encoding no estan disponibles esta es muy buena porque evita crear demasiadas columnas.
+- 
