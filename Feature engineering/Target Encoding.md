@@ -1,32 +1,26 @@
 Targete encoding es cualquier tipo de encoding que utilice el target.
 Una manera facil es usar agregacion por grupo como la media, mismas consideraciones.
 
-This kind of target encoding is sometimes called a **mean encoding**. Applied to a binary target, it's also called **bin counting**. (Other names you might come across include: likelihood encoding, impact encoding, and leave-one-out encoding.)
+Tiene muchos nombres : mean, likelihood encoding, impact encoding, and leave-one-out encoding.
 
-An encoding like this presents a couple of problems, however. First are _unknown categories_. Target encodings create a special risk of overfitting, which means they need to be trained on an independent "encoding" split. When you join the encoding to future splits, Pandas will fill in missing values for any categories not present in the encoding split. These missing values you would have to impute somehow.
+Hay varios problemas al usar esto, categorias raras y desocnocidas, si aparece una desconocida el codigo no va a funcionar y las raras suelen ser poco precisas.
 
-Second are _rare categories_. When a category only occurs a few times in the dataset, any statistics calculated on its group are unlikely to be very accurate. In the _Automobiles_ dataset, the `mercurcy` make only occurs once. The "mean" price we calculated is just the price of that one vehicle, which might not be very representative of any Mercuries we might see in the future. Target encoding rare categories can make overfitting more likely.
+Una solucion es usar suavizado, mezclar la media de la categoria con la media global. Las desconocidas usan la global y las raras tienen poco efecto.
 
-A solution to these problems is to add **smoothing**. The idea is to blend the _in-category_ average with the _overall_ average. Rare categories get less weight on their category average, while missing categories just get the overall average.
-
-In pseudocode:
+En pseudocode:
 
 ```
 encoding = weight * in_category + (1 - weight) * overall
 ```
 
-where `weight` is a value between 0 and 1 calculated from the category frequency.
+donde `weight` es un valor entre 0 y 1 calculado de la frequencia.
 
-An easy way to determine the value for `weight` is to compute an **m-estimate**:
+una manera de calcular weight
 
 ```
 weight = n / (n + m)
 ```
 
-where `n` is the total number of times that category occurs in the data. The parameter `m` determines the "smoothing factor". Larger values of `m` put more weight on the overall estimate.
+donde n es la frcuencia y m es un factor de suavizado, mas alto mas importa la media global.
 
-**se Cases for Target Encoding**  
-Target encoding is great for:
-
-- **High-cardinality features**: A feature with a large number of categories can be troublesome to encode: a one-hot encoding would generate too many features and alternatives, like a label encoding, might not be appropriate for that feature. A target encoding derives numbers for the categories using the feature's most important property: its relationship with the target.
-- **Domain-motivated features**: From prior experience, you might suspect that a categorical feature should be important even if it scored poorly with a feature metric. A target encoding can help reveal a feature's true informativeness.
+**casos de uso**
