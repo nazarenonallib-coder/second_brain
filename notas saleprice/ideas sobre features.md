@@ -12,3 +12,9 @@ LotShape y LandContour: juntar y encodear
 
 **Utilities**: label encoding
 
+**LandSlope**: label encoding
+
+**LandSlope y LandContour:** Analizar en mayor profundidad
+
+**Neighborhood**: OHE o TargetEncoding 
+
