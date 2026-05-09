@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Feature engineering/Tipos de features.md",
+                "file": "notas saleprice/ideas sobre features.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tipos de features"
+              "title": "ideas sobre features"
             }
           }
         ]
@@ -194,15 +194,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c1b3b5efbcb1fbe4",
+  "active": "2ab3ead4a493deff",
   "lastOpenFiles": [
-    "Sin nombre",
+    "notas saleprice/features para graficar.md",
+    "notas saleprice/ideas sobre features.md",
+    "Feature engineering/Tipos de features.md",
+    "notas saleprice",
     "Feature engineering/Feature engineering.md",
     "Feature engineering/Elegir features mas utiles.md",
     "Feature engineering/Target Encoding.md",
     "Feature engineering/PCA.md",
     "Feature engineering/K-clustering.md",
-    "Feature engineering/Tipos de features.md",
     "Sin título.base",
     "Sin título 1.base",
     "Feature engineering",
