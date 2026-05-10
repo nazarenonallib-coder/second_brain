@@ -100,5 +100,17 @@ Fireplaces y FireplacesQual: interaccionar
 
 **GarageType**: OHE
 
+**GarageFinish**: LABEL ENCODING
+
+**GarageCars y GarageArea**: analizar redundancia
+
+**GarageQual**: label encoding
+
+**GarageCond**: label encoding
+
+PavedDrive y GarageType: interaccionar
+
+GarageFinish, GarageQual y GarageCond: interaccionar
+
 
 
