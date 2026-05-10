@@ -58,12 +58,29 @@ Foundation: OHE
 
 **BsmtCond**: label encoding
 
-BsmtExposure: label encoding (Unfinished -1)
+**BsmtExposure**: label encoding (Unfinished -1)
 
 BsmtCond, BsmtExposure y BsmtQual: junat y encodear.
 
 **BsmtFinType1 y BsmtFinType2**: juntar y encodear.
 
-BsmtFinType1 y BsmtFinSF1: interactuar 
+**BsmtFinType1** y **BsmtFinSF1**: interactuar 
 
-BsmtFinType2 y BsmtFinSF2: interactuar 
+**BsmtFinType2** y **BsmtFinSF2**: interactuar 
+
+BsmtUnfSF, BsmtFinSF1 y BsmtFinSF2: calcular porcentaje para cada uno
+
+**Heating**: OHE
+
+**HeatingQC**: label encoding
+
+Heating y HeatingQC: unir y codear
+
+Heating, HeatingQC y  CentralAir: unir y codear
+
+**Electrical**: OHE
+
+1stFlrSF Y 2ndFlrSF: sumar
+
+
+
