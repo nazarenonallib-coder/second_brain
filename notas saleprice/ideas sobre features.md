@@ -32,7 +32,7 @@ LotShape y LandContour: juntar y encodear
 
 OverallCond y OverallQual: junat y encodear.
 
-**YearBuilt**: probar label encoding( el primer ano del que tengamos registro es 0, cualquier dato menor es -1, cualquier dato mayor al mayor dato registrado es  el mayor +1) o Target Encoding 
+**YearBuilt**: Dejar como continuo 
 
 **YearRemodAdd**: Crear un nuevo feature binario "remodelado", encodear como el anterior
 
@@ -123,4 +123,12 @@ PoolQC y PoolArea: multiplicar despues del encoding
 
 **MiscFeature**: OHE
 
-MoSold
+**MoSold**: aplicar cos y sin para representar comportamiento ciclico
+
+**YrSold**: dejar como numerico
+
+**SaleType:** OHE
+
+**SaleCondition**:OHE
+
+SaleType, y SaleCondition: juntar y encodear
