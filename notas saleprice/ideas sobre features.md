@@ -84,6 +84,9 @@ Heating, HeatingQC y  CentralAir: unir y codear
 
 LowQualFinSF, 1stFlrSF Y 2ndFlrSF: porcentaje de area de mala calidad
 
+BsmtFullBath y BsmtHalfBath: sumar pesado(Full suma 1 y half suma 0.5)
+
+FullBath y HalfBath: sumar pesado(Full suma 1 y half suma 0.5)
 
 
 
