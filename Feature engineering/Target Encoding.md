@@ -1,4 +1,4 @@
-Targete encoding es cualquier tipo de encoding que utilice el target.
+Target encoding es cualquier tipo de encoding que utilice el target.
 Una manera facil es usar agregacion por grupo como la media, mismas consideraciones.
 
 Tiene muchos nombres : mean, likelihood encoding, impact encoding, and leave-one-out encoding.
