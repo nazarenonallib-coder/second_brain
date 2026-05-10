@@ -88,6 +88,17 @@ BsmtFullBath y BsmtHalfBath: sumar pesado(Full suma 1 y half suma 0.5)
 
 FullBath y HalfBath: sumar pesado(Full suma 1 y half suma 0.5)
 
+Kitchen y KitchenQual: interaccionar
+
+Kitchen, Bedroom y TotRmsAbvGrd: proporcion de las 2 primeras
+
+**Functional**: label encoding
+
+Fireplaces y FireplacesQual: interaccionar
+
+**GarageYrBlt**:probar label encoding( el primer ano del que tengamos registro es 0, cualquier dato menor es -1, cualquier dato mayor al mayor dato registrado es  el mayor +1) o Target Encoding 
+
+**GarageType**: OHE
 
 
 
