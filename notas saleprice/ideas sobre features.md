@@ -123,3 +123,4 @@ PoolQC y PoolArea: multiplicar despues del encoding
 
 **MiscFeature**: OHE
 
+MoSold
