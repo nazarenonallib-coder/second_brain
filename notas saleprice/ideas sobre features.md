@@ -113,4 +113,13 @@ PavedDrive y GarageType: interaccionar
 GarageFinish, GarageQual y GarageCond: interaccionar
 
 
+WoodDeckSF, OpenPorchSF, EnclosedPorch, 3SsnPorch y ScreenPorch: sumar y crear una feature "OutdoorUsableSpace"
+
+**PoolQC** : label encoding
+
+PoolQC y PoolArea: multiplicar despues del encoding
+
+**Fence**: label encoding
+
+**MiscFeature**: OHE
 
