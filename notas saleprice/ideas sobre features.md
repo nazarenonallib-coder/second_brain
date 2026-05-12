@@ -83,7 +83,7 @@ Heating y HeatingQC: unir y codear
 
 Heating, HeatingQC y  CentralAir: unir y codear
 
-**Electrical**: OHE
+**Electrical**: OHE e imputar con moda
 
 1stFlrSF Y 2ndFlrSF: sumar
 
