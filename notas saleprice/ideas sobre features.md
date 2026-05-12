@@ -47,7 +47,7 @@ OverallCond y OverallQual: junat y encodear.
 
 Exterior1, Exterior2 y MasVnrType: juntar y encodear
 
-MasVnrType: OHE
+**MasVnrType**: OHE y codear los NaN como su propio vlaor.
 
 **ExterQual**: label encoding
 
