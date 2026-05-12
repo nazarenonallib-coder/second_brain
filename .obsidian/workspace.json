@@ -35,7 +35,8 @@
               "title": "Sin título"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ab3ead4a493deff",
+  "active": "329ba8db464eea1b",
   "lastOpenFiles": [
-    "notas saleprice/features para graficar.md",
     "notas saleprice/ideas sobre features.md",
+    "notas saleprice/features para graficar.md",
     "Feature engineering/Elegir features mas utiles.md",
     "Feature engineering/Tipos de features.md",
     "Sin título.md",
