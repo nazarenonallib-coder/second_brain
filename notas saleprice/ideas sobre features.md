@@ -99,19 +99,22 @@ Kitchen, Bedroom y TotRmsAbvGrd: proporcion de las 2 primeras
 
 **Functional**: label encoding
 
+**FireplacesQual**: imputar como propio valor.
+
+
 Fireplaces y FireplacesQual: interaccionar
 
-**GarageYrBlt**:probar label encoding( el primer ano del que tengamos registro es 0, cualquier dato menor es -1, cualquier dato mayor al mayor dato registrado es  el mayor +1) o Target Encoding 
+**GarageYrBlt**:probar label encoding( el primer ano del que tengamos registro es 0, cualquier dato menor es -1, cualquier dato mayor al mayor dato registrado es  el mayor +1) o Target Encoding . imputar con 0 para los que no tienen.
 
-**GarageType**: OHE
+**GarageType**: OHE e imputar como propio valor.
 
 **GarageFinish**: LABEL ENCODING
 
 **GarageCars y GarageArea**: analizar redundancia
 
-**GarageQual**: label encoding
+**GarageQual**: label encoding e imputar como propio valor.
 
-**GarageCond**: label encoding
+**GarageCond**: label encoding e imputar como propio valor.
 
 PavedDrive y GarageType: interaccionar
 
@@ -120,13 +123,13 @@ GarageFinish, GarageQual y GarageCond: interaccionar
 
 WoodDeckSF, OpenPorchSF, EnclosedPorch, 3SsnPorch y ScreenPorch: sumar y crear una feature "OutdoorUsableSpace"
 
-**PoolQC** : label encoding
+**PoolQC** : label encoding e imputar como propio valor.
 
 PoolQC y PoolArea: multiplicar despues del encoding
 
-**Fence**: label encoding
+**Fence**: label encoding e imputar como propio valor.
 
-**MiscFeature**: OHE
+**MiscFeature**: OHE e imputar como propio valor.
 
 **MoSold**: aplicar cos y sin para representar comportamiento ciclico
 
