@@ -1,5 +1,5 @@
 
-+**MSSubClass**:contar los que tengan la misma cantidad de pisos igual y crear una feature que indique si estan sin terminar. Analizar similitud con HouseStyle.
+**MSSubClass**:contar los que tengan la misma cantidad de pisos igual y crear una feature que indique si estan sin terminar. Analizar similitud con HouseStyle.
 
 **MSZoning**: dividir en 2 features, una para las de zona comercial( label encoding ) y otra para el resto.
 
@@ -57,7 +57,7 @@ Exterior1, Exterior2 y MasVnrType: juntar y encodear
 
 ExterCond y ExterQual: junat y encodear.
 
-Foundation: OHE
+**Foundation**: OHE
 
 **BsmtQual**: label encoding e imputar como su propio valor
 
