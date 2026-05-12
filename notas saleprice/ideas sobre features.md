@@ -1,8 +1,11 @@
-**MSSubClass**:contar los que tengan la misma cantidad de pisos igual y crear una feature que indique si estan sin terminar. Analizar similitud con HouseStyle.
+
++**MSSubClass**:contar los que tengan la misma cantidad de pisos igual y crear una feature que indique si estan sin terminar. Analizar similitud con HouseStyle.
 
 **MSZoning**: dividir en 2 features, una para las de zona comercial( label encoding ) y otra para el resto.
 
 **LotFrontage y LotArea**: hacer un ratio
+
+**Alley**: Imputar todos los NaN como su propio valor.
 
 Alley y Street: juntar y encodear
 
