@@ -67,7 +67,7 @@ Foundation: OHE
 
 BsmtCond, BsmtExposure y BsmtQual: junat y encodear.
 
-**BsmtFinType1 y BsmtFinType2**: juntar y encodear. e  imputar como su propio valor
+**BsmtFinType1 y BsmtFinType2**: juntar y encodear. e  imputar como su propio valor y BsmtCond
 
 **BsmtFinType1** y **BsmtFinSF1**: interactuar 
 
