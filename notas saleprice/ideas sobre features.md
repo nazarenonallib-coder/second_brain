@@ -59,15 +59,15 @@ ExterCond y ExterQual: junat y encodear.
 
 Foundation: OHE
 
-**BsmtQual**: label encoding
+**BsmtQual**: label encoding e imputar como su propio valor
 
-**BsmtCond**: label encoding
+**BsmtCond**: label encoding e imputar como su propio valor
 
-**BsmtExposure**: label encoding (Unfinished -1)
+**BsmtExposure**: label encoding (Unfinished -1) e imputar como su propio valor y BsmtCond
 
 BsmtCond, BsmtExposure y BsmtQual: junat y encodear.
 
-**BsmtFinType1 y BsmtFinType2**: juntar y encodear.
+**BsmtFinType1 y BsmtFinType2**: juntar y encodear. e  imputar como su propio valor
 
 **BsmtFinType1** y **BsmtFinSF1**: interactuar 
 
