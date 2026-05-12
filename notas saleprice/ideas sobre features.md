@@ -49,6 +49,8 @@ Exterior1, Exterior2 y MasVnrType: juntar y encodear
 
 **MasVnrType**: OHE y codear los NaN como su propio vlaor.
 
+**MasVnrArea**: Imputar basado en MasVnrType.
+
 **ExterQual**: label encoding
 
 **ExterCond**: label encoding
