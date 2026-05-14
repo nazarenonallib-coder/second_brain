@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notas saleprice/ideas sobre features.md",
+                "file": "Habitos Atomicos/9-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ideas sobre features"
+              "title": "9-12"
             }
           }
         ]
@@ -196,9 +196,13 @@
   },
   "active": "2ab3ead4a493deff",
   "lastOpenFiles": [
-    "Sin título.md",
-    "notas saleprice/ideas sobre features.md",
+    "Habitos Atomicos/5-8.md",
+    "Habitos Atomicos/1-4.md",
+    "Habitos Atomicos/9-12.md",
+    "Habitos Atomicos",
     "notas saleprice/data description.md",
+    "notas saleprice/ideas sobre features.md",
+    "Sin título.md",
     "notas saleprice/mutual_information_scores (1).csv",
     "notas saleprice/features para graficar.md",
     "notas saleprice/Notas.md",
