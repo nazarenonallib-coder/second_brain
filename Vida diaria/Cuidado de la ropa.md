@@ -22,3 +22,16 @@ Todo se lava del **reves en** **frío y se seca al aire en la sombra, y del rev
 **III. El Aire es Limpiador:** Antes de lavar algo porque "huele a calle", déjalo colgado en una ventana toda la noche. Ahorrarás agua, químicos y desgaste de fibra.
 
 **IV. No suavizantes artificiales:** Usa vinagre blanco.
+
+
+**------------------------------------------------------------------------------------------------------------**
+# Desmanchar ropa
+### I. Las Reglas de Oro (Antes de empezar)
+
+1. **Actúa rápido:** Una mancha fresca es un problema; una mancha seca es un tatuaje.
+    
+2. **Secar, no frotar:** Presiona con un paño limpio hacia abajo. Si frotas, expandes la mancha y rompes el tejido (pilling).
+    
+3. **De afuera hacia adentro:** Limpia los bordes de la mancha primero y ve hacia el centro para evitar que se forme un "cerco".
+    
+4. **Prueba de seguridad:** Prueba cualquier producto en una zona invisible (como el revés del dobladillo) para ver si destiñe.
