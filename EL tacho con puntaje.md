@@ -4,3 +4,4 @@ Nosotros creamos un tacho de basura con puntaje. Es un tacho que basado en el pe
 
 La propuesta utiliza tecnologia para medir el peso de la basura, y calcular/mostrar el puntaje. El sistema daria un puntaje visual en un **display de 7 segmentos** y usaria celdas de carga para medir el peso de la basura. La energia para el sistema vendria de un cable alimentacion unido a la red local.
 
+Creemos que esta idea seria mejor que una campana tradicional porque hace que la gente actue, no por sentir culpa sino porque se divierten haciendo que es bueno para la comunidad y el medio ambiente.   
