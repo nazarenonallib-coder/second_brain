@@ -1,11 +1,9 @@
 
-Todo se lava del **reves en** **frío y se seca al aire en la sombra, y del reves**.  
+Todo se lava del **revés en** **frío y se seca al aire en la sombra, y del revés**.  
 **La secadora está prohibida.**  
   
 
-**La lana, cachemira y seda**: se lavan muuuy poco, airearlas alcanza, jabón neutro y secado en plano .
-
-  
+**La lana, cachemira y seda**: se lavan muy poco, airearlas alcanza, jabón neutro y secado en plano .
 
 **El algodón, lino y cáñamo**: se lavan si tienen olor o manchas, y no se planchan, se vaporizan colgadas( o las colgas en el baño mientras te bañas )  
   
@@ -70,3 +68,39 @@ Son imanes para la grasa.
 - **Peligro:** El calor. Si metes una prenda sintética con una mancha de aceite a la secadora, la mancha se "sella" térmicamente y no saldrá jamás.
     
 - **Solución:** Mucho detergente de platos (desengrasante) y lavado en frío.
+
+
+## Manchas viejas
+
+### 1. El Ablandamiento (El Pre-Remojo)
+
+No lances la prenda directo a la lavadora; el detergente normal no tendrá fuerza suficiente para una mancha vieja.
+
+- **Agua tibia (si la tela lo permite):** Pon la prenda en remojo con un poco de detergente líquido concentrado directamente sobre la mancha.
+    
+- **El factor tiempo:** Déjala ahí al menos **2 a 4 horas**. Necesitamos que las fibras se hinchen y suelten el agarre sobre la suciedad.
+    
+
+### 2. El truco para manchas de grasa viejas
+
+Si la mancha es de aceite o comida y ya pasó por la lavadora (o pasaron días), la grasa se ha solidificado.
+
+- **Re-licuar la grasa:** Aplica un poco de **detergente para platos** (del que quita grasa extrema) y frota muy suavemente con un cepillo de dientes viejo.
+    
+- **Calor controlado:** Si es algodón, usa agua un poco más caliente solo en esa zona para ayudar a que el aceite se mueva.
+    
+
+### 3. El truco para manchas "misteriosas" o amarillentas
+
+Si no sabes de qué es pero ahí está la mancha oscura o amarillenta:
+
+- **Pasta de Bicarbonato y Vinagre:** Haz una pasta, ponla sobre la mancha, deja que burbujee y repose 30 minutos.
+    
+- **Manchas orgánicas persistentes:** Si la tela es clara, el **agua oxigenada** (peróxido) suele deshacer lo que el jabón no pudo, especialmente restos de sudor o comida.
+    
+
+### 4. La prueba del sol (Solo para Blancos y Crudos)
+
+Si después de lavar sigue quedando una sombra leve:
+
+- **Blanqueo natural:** Saca la prenda al sol mientras aún está húmeda. El sol actúa como un agente blanqueador lento pero muy efectivo que puede terminar de "comerse" los restos de pigmento de una mancha vieja.
