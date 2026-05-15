@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vida diaria/Cuidado de la ropa.md",
+                "file": "EL tacho con puntaje.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cuidado de la ropa"
+              "title": "EL tacho con puntaje"
             }
           }
         ],
@@ -208,6 +208,7 @@
   "active": "db8e8aa5c5c6b4ec",
   "lastOpenFiles": [
     "Vida diaria/Cuidado de la ropa.md",
+    "EL tacho con puntaje.md",
     "Vida diaria",
     "ML",
     "Habitos Atomicos/1-4.md",
