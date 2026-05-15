@@ -9,7 +9,7 @@ Todo se lava del **revés en** **frío y se seca al aire en la sombra, y del re
   
 **Los sintéticos**: hacele lo que quieras son plástico, nomas no lo planches o lo pongas en la lavadora.  
   
-**Los semisinteticos (Viscosa, rayón, modal, lyocell):** lavado frío y delicado, plancha en bajo-medio.  
+**Los semisintéticos (Viscosa, rayón, modal, lyocell):** lavado frío y delicado, plancha en bajo-medio.  
   
   
 
