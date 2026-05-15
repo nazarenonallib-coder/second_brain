@@ -11,17 +11,28 @@
             "id": "2ab3ead4a493deff",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          },
+          {
+            "id": "db8e8aa5c5c6b4ec",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Habitos Atomicos/9-12.md",
+                "file": "Vida diaria/Cuidado de la ropa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9-12"
+              "title": "Cuidado de la ropa"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,28 +205,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2ab3ead4a493deff",
+  "active": "db8e8aa5c5c6b4ec",
   "lastOpenFiles": [
-    "Habitos Atomicos/5-8.md",
+    "Vida diaria/Cuidado de la ropa.md",
+    "Vida diaria",
+    "ML",
     "Habitos Atomicos/1-4.md",
     "Habitos Atomicos/9-12.md",
+    "Habitos Atomicos/5-8.md",
     "Habitos Atomicos",
-    "notas saleprice/data description.md",
-    "notas saleprice/ideas sobre features.md",
-    "Sin título.md",
-    "notas saleprice/mutual_information_scores (1).csv",
+    "ML/notas saleprice/data description.md",
+    "ML/notas saleprice/ideas sobre features.md",
+    "ML/notas saleprice/mutual_information_scores (1).csv",
     "notas saleprice/features para graficar.md",
     "notas saleprice/Notas.md",
-    "Feature engineering/Elegir features mas utiles.md",
-    "Feature engineering/Tipos de features.md",
-    "Feature engineering/Target Encoding.md",
-    "Feature engineering/PCA.md",
-    "Feature engineering/K-clustering.md",
-    "Feature engineering/Feature engineering.md",
-    "notas saleprice",
+    "ML/Feature engineering/Elegir features mas utiles.md",
+    "ML/Feature engineering/Tipos de features.md",
+    "ML/Feature engineering/Target Encoding.md",
+    "ML/Feature engineering/PCA.md",
+    "ML/Feature engineering/K-clustering.md",
+    "ML/Feature engineering/Feature engineering.md",
+    "ML/notas saleprice",
     "Sin título.base",
     "Sin título 1.base",
-    "Feature engineering",
+    "ML/Feature engineering",
     "adewqdqwsaadcasdas.md",
     "Sin título.canvas",
     "Sin título 1.canvas",
