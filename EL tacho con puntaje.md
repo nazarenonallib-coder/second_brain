@@ -6,4 +6,4 @@ La propuesta utiliza tecnologia para medir el peso de la basura, y calcular/most
 
 Creemos que esta idea seria mejor que una campana tradicional porque hace que la gente actue, no por sentir culpa sino porque se divierten haciendo que es bueno para la comunidad y el medio ambiente.  Creemos que los vecinos de la localidad le darian atencion durante un tiempo y si la campana es exitosa lo incluirian como parte de la identidad del pueblo.
 
-(La division de las tareas la podriamos poner como )
+(La division de las tareas la podriamos poner como un subtitulo cuando hablemos, junto con los nombres)
