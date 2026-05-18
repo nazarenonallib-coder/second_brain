@@ -5,8 +5,8 @@ Dia 1: Empuje
 -Face pulls 4x12
 -Press frances 3x10
 -Tricep unilateral polea 3x10
--
--
+-Rueda abdominal 3x10
+-Giros Rusos 3x12 lado
 
 Dia 2: Tiron
 -Peso muerto rumano 4x8
@@ -20,4 +20,10 @@ Dia 2: Tiron
 -Curl martillo 3x8
 
 Dia 3: Pierna
-
+-Sentadilla 4x5
+-Sentadilla contra pared pelota 4x15
+-Extension cuaricep loco 8   1xmuerte
+-Pantorrilla parado 4x15
+-Pantorrilla sentado 4x15
+-Vuelos laterales 4x12
+-Farmer carry 4xfallo
