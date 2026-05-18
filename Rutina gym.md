@@ -16,8 +16,7 @@ Dia 2: Tiron
 -Dorsalera agarre neutro 4x8
 -Remo libre barra 4x8
 -Remo unilateral polea 3x8
--Curl predicador 3x8
--Curl martillo 3x8
+-Curl predicador o Curl martillo 3x8
 
 Dia 3: Pierna
 -Sentadilla 4x5
