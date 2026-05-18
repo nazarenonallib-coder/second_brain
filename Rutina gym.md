@@ -15,7 +15,7 @@ Dia 2: Tiron
 -Remo maquina cerrado 4x8
 -Dorsalera agarre neutro 4x8
 -Remo libre barra 4x8
--Press Militar 4x8
+-
 -Curl predicador 3x8
 -Curl martillo 3x8
 
@@ -27,5 +27,6 @@ Dia 3: Pierna
 -Pantorrilla parado 4x15
 -Pantorrilla sentado 4x15
 -Vuelos laterales 4x12
+-Press Militar 4x8
 -Farmer carry 4xfallo
 -Dead Hang 3x60'
