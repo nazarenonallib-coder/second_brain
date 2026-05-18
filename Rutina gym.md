@@ -22,7 +22,8 @@ Dia 2: Tiron
 Dia 3: Pierna
 -Sentadilla 4x5
 -Sentadilla contra pared pelota 4x15
--Extension cuaricep loco 8   1xmuerte
+-Extension cuaricep    3x8
+	-loco 8        1xserie
 -Pantorrilla parado 4x15
 -Pantorrilla sentado 4x15
 -Vuelos laterales 4x12
