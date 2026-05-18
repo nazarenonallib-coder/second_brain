@@ -32,3 +32,8 @@ Dia 3: Pierna
 -Dead Hang 3x60'
 
 Dia 4:
+-Clean Pull (tirón olímpico) 4x3
+-Box Jump / Salto al cajón 4x5
+-Swing Kettlebell  4x5
+-Push Press 4x4
+-Slam de balón medicinal 3x5
