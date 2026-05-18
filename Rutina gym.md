@@ -1,4 +1,10 @@
 Dia 1: Empuje
+-
+-
+-
+-
+-
+-
 
 Dia 2: Tiron
 
