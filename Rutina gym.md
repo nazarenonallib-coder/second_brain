@@ -8,7 +8,8 @@ Dia 1: Empuje
 
 
 Dia 2: Tiron
--
+-Peso muerto rumano 4x8
+-Camilla isquios 4x8
 -
 -
 
