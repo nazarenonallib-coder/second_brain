@@ -27,4 +27,4 @@ Dia 3: Pierna
 -Pantorrilla sentado 4x15
 -Vuelos laterales 4x12
 -Farmer carry 4xfallo
--Curl mu
+-Dead Hang 3x60'
