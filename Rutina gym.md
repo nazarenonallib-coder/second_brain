@@ -5,10 +5,9 @@ Dia 1: Empuje
 -Face pulls 4x12
 -Press frances 3x10
 -Tricep unilateral polea 3x10
--
+
 
 Dia 2: Tiron
--
 -
 -
 -
