@@ -3,10 +3,15 @@ Dia 1: Empuje
 -Press inclinado mancuerna 4x8
 -Cruces en polea 4x12
 -Face pulls 4x12
--
+-Press frances 3x10
+-Tricep unilateral polea 3x10
 -
 
 Dia 2: Tiron
+-
+-
+-
+-
 
 Dia 3: Pierna
 
