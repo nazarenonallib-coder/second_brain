@@ -41,33 +41,6 @@ Todo se lava del **revés en** **frío y se seca al aire en la sombra, y del re
 | **Proteínas**        | Sangre, sudor, huevo, pasto.        | **Agua Fría + Sal:** El agua caliente "cocina" la proteína y la pega a la fibra para siempre. Usa siempre agua helada.            |
 | **Taninos / Tintes** | Vino tinto, café, té, frutas.       | **Agua oxigenada o Vinagre blanco:** Mezclado con agua. Para el vino tinto fresco, el agua con gas funciona por la efervescencia. |
 | **Tinta**            | Bolígrafo, rotulador.               | **Alcohol isopropílico:** Pon un paño debajo para que absorba la tinta que se desprende.                                          |
-### III. El Tratamiento según la Fibra
-
-No puedes tratar un pantalón de lana igual que una camiseta de algodón. Aquí es donde la mayoría falla:
-
-#### 1. Algodón y Lino (Fibras Vegetales)
-
-Son guerreras. Aguantan casi todo, pero el algodón blanco tiende a amarillear con el cloro (lejía).
-
-- **Truco:** Para manchas amarillas de sudor, haz una pasta de **bicarbonato de sodio y limón**. Déjala al sol una hora y lava normal. El sol es el blanqueador natural más potente para estas fibras.
-    
-
-#### 2. Lana y Seda (Fibras Proteicas)
-
-Son delicadísimas. El pH es clave.
-
-- **Peligro:** Nunca uses enzimas fuertes o blanqueadores oxigenados potentes, porque literalmente "disuelven" la fibra.
-    
-- **Solución:** Usa **vinagre blanco** diluido para manchas de vino o café. Si es grasa, usa un poco de talco o fécula de maíz para que absorba el aceite durante horas antes de cepillar suavemente.
-    
-
-#### 3. Sintéticos (Poliéster, Nylon)
-
-Son imanes para la grasa.
-
-- **Peligro:** El calor. Si metes una prenda sintética con una mancha de aceite a la secadora, la mancha se "sella" térmicamente y no saldrá jamás.
-    
-- **Solución:** Mucho detergente de platos (desengrasante) y lavado en frío.
 
 
 ## Manchas viejas
@@ -76,27 +49,13 @@ Son imanes para la grasa.
 
 No lances la prenda directo a la lavadora; el detergente normal no tendrá fuerza suficiente para una mancha vieja.
 
-- **Agua tibia (si la tela lo permite):** Pon la prenda en remojo con un poco de detergente líquido concentrado directamente sobre la mancha.
+- **Agua tibia (si la tela lo permite):** Pon la prenda en remojo con un poco de jabon blanco directamente sobre la mancha.
     
 - **El factor tiempo:** Déjala ahí al menos **2 a 4 horas**. Necesitamos que las fibras se hinchen y suelten el agarre sobre la suciedad.
-    
-
-### 2. El truco para manchas de grasa viejas
-
-Si la mancha es de aceite o comida y ya pasó por la lavadora (o pasaron días), la grasa se ha solidificado.
-
-- **Re-licuar la grasa:** Aplica un poco de **detergente para platos** (del que quita grasa extrema) y frota muy suavemente con un cepillo de dientes viejo.
-    
-- **Calor controlado:** Si es algodón, usa agua un poco más caliente solo en esa zona para ayudar a que el aceite se mueva.
-    
 
 ### 3. El truco para manchas "misteriosas" o amarillentas
-
-Si no sabes de qué es pero ahí está la mancha oscura o amarillenta:
-
-- **Pasta de Bicarbonato y Vinagre:** Haz una pasta, ponla sobre la mancha, deja que burbujee y repose 30 minutos.
     
-- **Manchas orgánicas persistentes:** Si la tela es clara, el **agua oxigenada** (peróxido) suele deshacer lo que el jabón no pudo, especialmente restos de sudor o comida.
+- **Manchas orgánicas persistentes:** Si la tela es clara y resistente(no lana o seda), el **agua oxigenada** (peróxido) suele deshacer lo que el jabón no pudo, especialmente restos de sudor o comida.
     
 
 ### 4. La prueba del sol (Solo para Blancos y Crudos)
