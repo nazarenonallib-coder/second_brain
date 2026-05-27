@@ -1,5 +1,7 @@
-**SObre RAEE**
+**SObre la nota**
 
 mencionar reutilizacion, incorporar epet como testers de materiales.
-Mencionar convenio con GEAS 
 
+
+**Sobre proyecto de ordenanza**
+Es un 
