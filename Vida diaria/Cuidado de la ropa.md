@@ -58,8 +58,8 @@ No lances la prenda directo a la lavadora; el detergente normal no tendrá fuerz
 - **Manchas orgánicas persistentes:** Si la tela es clara y resistente(no lana o seda), el **agua oxigenada** (peróxido) suele deshacer lo que el jabón no pudo, especialmente restos de sudor o comida.
     
 
-### 4. La prueba del sol (Solo para Blancos y Crudos)
-
+### 4. La prueba del sol (Solo para Blancos y Crudos) 
+EVITAR EN LANA O SEDA
 Si después de lavar sigue quedando una sombra leve:
 
 - **Blanqueo natural:** Saca la prenda al sol mientras aún está húmeda. El sol actúa como un agente blanqueador lento pero muy efectivo que puede terminar de "comerse" los restos de pigmento de una mancha vieja.
