@@ -27,7 +27,6 @@ Dia 3: Pierna
 -Pantorrilla sentado 4x15
 -Vuelos laterales 4x12
 -Press Militar 4x8
--Farmer carry 4xfallo
 -Dead Hang 3x60'
 
 Dia 4:
