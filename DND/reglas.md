@@ -6,8 +6,7 @@
 
 Para gastar Dados de Golpe en descanso corto, el personaje (o un aliado) debe usar 1 uso de un Kit de Sanador o Herborista (10 usos, 5 mo). Sin kit los Dados de Golpe no pueden usarse. Los conjuros de curación funcionan sin kit. Primeros Auxilios en combate (acción, Medicina DC10) estabiliza sin gastar uso, pero no recupera HP.
 
-
-
+Descanso Corto (8h): se pueden gastar Dados de Golpe disponibles con kit. Descanso Largo (7 días): se recupera la mitad de los Dados de Golpe máximos y se pueden gastar todos los disponibles. El personaje **nunca** recupera todos sus HP máximos de forma automática.
 
 # Heridas persistentes
 
@@ -35,3 +34,4 @@ Cuando un PJ cae a 0 PG y es estabilizado, tira 1d12 en la tabla. Las heridas sa
 # Temporizador de rescate
 
 Cuando un PJ cae a 0 PG, sus aliados tienen **3 rondas** para llegar y estabilizarlo (Medicina DC10 o uso de Kit — sin tirada con kit). Pasadas 3 rondas sin asistencia, el PJ hace sus Tiradas de Salvación contra la Muerte con Desventaja. Si es estabilizado por un aliado, queda inconsciente 1d4 horas sin hacer tiradas.
+
